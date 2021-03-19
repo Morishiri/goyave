@@ -1,11 +1,12 @@
 module goyave.dev/goyave/v3
 
-go 1.13
+go 1.14
 
 require (
 	github.com/Code-Hex/uniseg v0.2.0
 	github.com/denisenkom/go-mssqldb v0.9.0 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/getkin/kin-openapi v0.49.0
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/imdario/mergo v0.3.11
